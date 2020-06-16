@@ -1,4 +1,0 @@
-Name: Frederick Newsham
-Student ID: S3868397
-GitHub Pages Link: https://siplord.github.io/
-GitHub Repository Link: https://github.com/Siplord/siplord.github.io
